@@ -26,7 +26,7 @@ The application's files can be accessed by cloning the bamazon repository to you
 
 ### Executing program
 
-* The user can run the application with a command line application by intiating the command 'node bamazonCustomer.js'.
+* The user can run the application with a command line application by initiating the command 'node bamazonCustomer.js'.
 
 ## Help
 
