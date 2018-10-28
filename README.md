@@ -22,7 +22,7 @@ A command line application is the only necessary application needed to run this 
 
 ### Installing
 
-The application's files can be accessed by cloning the bamazon Repository to your device. You can install the node packages necessary for this app by navigating to this app's directory in the command line, and intiating the command 'npm init -y' to intialize a default package.json file, and then performing the 'npm install' command, followed by the node package name.
+The application's files can be accessed by cloning the bamazon repository to your device. You can install the node packages necessary for this app by navigating to this app's directory in the command line, and initiating the command 'npm init -y' to initialize a default package.json file, and then performing the 'npm install' command, followed by the node package name.
 
 ### Executing program
 
