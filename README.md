@@ -8,10 +8,6 @@ Bamazon is a CLI app that resembles an Amazon-like storefront. The app takes in 
 * **How Does Bamazon Work?**
 This app uses MySQL to store inventory data for products into a database, and Node.js to connect with that database and allow the user to interact with the data by going through prompts created with the inquirer node package.
 
-You can view a demo of this application narrated by the author by following the link below:
-
-https://drive.google.com/file/d/1xolRxPlPXogj0xnMIHE8aBtzhF_mZT5U/view?usp=sharing
-
 * **Target Audience of Bamazon**
 The target audience is individuals interested in command line applications that utilize inquirer prompts, and individuals who enjoy simple but effective applications that store and manipulate data using MySQL. It may also attract those who love to shop!
 
